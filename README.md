@@ -19,5 +19,5 @@ Assignment Submission
 - OR USE THIS [Title](<Android Install APK.apk>)
 
 ## VIDEO RECORDING IPHONE
-![](https://github.com/vaibhav13062/alippo_assignment/recording1.gif)
+![IMAGE GIF](https://github.com/vaibhav13062/alippo_assignment/recording1.gif)
 [![Watch the video](https://github.com/vaibhav13062/alippo_assignment/recording1.mov)]
