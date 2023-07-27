@@ -20,4 +20,4 @@ Assignment Submission
 
 ## VIDEO RECORDING IPHONE
 ![](https://github.com/vaibhav13062/alippo_assignment/recording1.gif)
-[![Watch the video](recording1.mov)]
+[![Watch the video](https://github.com/vaibhav13062/alippo_assignment/recording1.mov)]
