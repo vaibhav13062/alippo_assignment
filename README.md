@@ -18,3 +18,6 @@ Assignment Submission
 - Install the apk in your Device
 - OR USE THIS [Title](<Android Install APK.apk>)
 
+## VIDEO RECORDING IPHONE
+
+[![Watch the video](recording1.mov)]
