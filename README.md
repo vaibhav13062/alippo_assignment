@@ -20,9 +20,9 @@ Assignment Submission
 
 ## GIF
 
-[![IMAGE GIF](https://github.com/vaibhav13062/alippo_assignment/recording1.gif)]
+[![Watch the GIF](recording1.gif)]
 
 ## VIDEO RECORDING IPHONE
 
 
-[![Watch the video](https://github.com/vaibhav13062/alippo_assignment/recording1.mov)]
+[![Watch the video](recording1.mov)]
