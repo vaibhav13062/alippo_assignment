@@ -18,6 +18,11 @@ Assignment Submission
 - Install the apk in your Device
 - OR USE THIS [Title](<Android Install APK.apk>)
 
+## GIF
+
+[![Watch the GIF](recording1.gif)]
+
 ## VIDEO RECORDING IPHONE
-![](https://github.com/vaibhav13062/alippo_assignment/recording1.gif)
-[![Watch the video](https://github.com/vaibhav13062/alippo_assignment/recording1.mov)]
+
+
+[![Watch the video](recording1.mov)]
