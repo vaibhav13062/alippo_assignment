@@ -1,4 +1,0 @@
-#Thu Jul 27 23:38:00 IST 2023
-base.0=/Users/vaibhav/Desktop/alippo_assignment/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
